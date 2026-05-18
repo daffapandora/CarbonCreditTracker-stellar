@@ -21,7 +21,7 @@ The smart contract includes three core functions:
 The contract utilizes the latest Soroban SDK standards:
 * **Persistent Storage**: Data keys securely store user balances directly on the blockchain ledger.
 * **Authorization**: The `require_auth()` method protects sensitive functions against unauthorized access.
-
+* **Smart Contract ID**: CC5MTYFEW4DSEYLIQRZZPRVF70XKP565UWH4XOFI4WSQ65SS4P5TD4CL
 ## Getting Started
 
 ### Prerequisites
